@@ -1,0 +1,2 @@
+En este articulo se presenta un analisis de como al utilizar el algoritmo de minimax, se pueden resolver multiples escenarios de un tablero de ajedrez en los cuales el jugador blanco tiene a su rey y su reina y el jugador negro solo tiene a su rey, con el objetivo de que el jugador blanco gane la partida. Esto se
+hace con la ayuda de multiples heuristicas que se usan en una funcion de evaluacion y agentes para solucionar los tableros de forma automatica usando el algoritmo minimax.
